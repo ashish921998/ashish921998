@@ -16,14 +16,15 @@
 ![myImage]()
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish921998&show_icons=true&theme=darcula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish921998&layout=compact)](https://github.com/ashish921998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish921998&layout=compact&theme=darcula)](https://github.com/ashish921998/github-readme-stats)
 
 
-
-
+<!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish921998&repo=ashish921998" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish921998&repo=ashish921998" />
 </a>
+-->
+
