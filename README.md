@@ -16,6 +16,7 @@
 ![myImage]()
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish921998&show_icons=true&theme=darcula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish921998&layout=compact)](https://github.com/ashish921998/github-readme-stats)
 
 
 
