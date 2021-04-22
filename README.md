@@ -13,6 +13,8 @@
 
 
 
-![myImage](https://lottiefiles.com/share/dputcrhj)
+![myImage]()
+
+<img src="https://lottiefiles.com/share/dputcrhj" width="30px">
 
 
