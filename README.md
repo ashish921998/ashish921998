@@ -13,6 +13,6 @@
 
 
 
-![myImage](https://assets3.lottiefiles.com/packages/lf20_dputcrhj.json)
+![myImage](https://lottiefiles.com/share/dputcrhj)
 
 
