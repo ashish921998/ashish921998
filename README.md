@@ -54,7 +54,7 @@
 - 👯 I’m looking to collaborate on Mind blowing projects
 - 🤔 I’m looking for help with my wifi,
 - 💬 Ask me about my projects
-- 📫 How to reach me:  [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
+- 📫 How to reach me:  [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="@ashish" height="25" margin-top = "5px" />](https://www.linkedin.com/in/valentinbriand42)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My smartness 💡 lies in my laziness 😴
 
