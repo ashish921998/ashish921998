@@ -2,16 +2,6 @@
 
 #### My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.I am a budding Software Developer and a Design Enthusiast,  who is obsessed with the idea of improving himself and wants a platform to grow and excel. I am obsessed with user centric products and I am looking to start my career in a Organisation with amazing people and work culture where I have room to grow and do more. 
 
-## Tech Stack :
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 
 
 - 🔭 I’m currently working on Exceling in every aspect
@@ -22,26 +12,6 @@
 - 📫 How to reach me:  [@ash921998](www.linkedin.com/in/ash921998)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My smartness 💡 lies in my laziness 😴
-
-
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish921998&show_icons=true&theme=darcula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish921998&layout=compact&theme=darcula)](https://github.com/ashish921998/github-readme-stats)
-
-
-<!-- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish921998&repo=ashish921998" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish921998&repo=ashish921998" />
-</a>
--->
-
-
-
-
-
 
 
 ## 🛠  Technologies and tools
@@ -63,6 +33,8 @@
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -86,8 +58,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
@@ -101,6 +71,31 @@
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
+
+
+
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish921998&show_icons=true&theme=darcula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish921998&layout=compact&theme=darcula)](https://github.com/ashish921998/github-readme-stats)
+
+
+<!-- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish921998&repo=ashish921998" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish921998&repo=ashish921998" />
+</a>
+-->
+
+
+
+
+
+
+
+
 
 
 
