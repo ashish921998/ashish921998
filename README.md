@@ -16,7 +16,7 @@
 ![myImage]()
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish921998)](https://github.com/ashish921998/github-readme-stats&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish921998)](https://github.com/ashish921998/github-readme-stats&count_private=true&show_icons=true)
 
 
 
